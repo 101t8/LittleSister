@@ -1,5 +1,5 @@
-Hey there is a tools 
-to install in windows you can open a terminal here :
+Hey there is a simple tool !
+To install in windows you can open a terminal here :
 ![image](https://user-images.githubusercontent.com/82557624/126621733-d4b08af9-0131-4a9b-868e-17a72ad54010.png)
 
 press enter, and do this commands : python3 -m pip install -r requirements.txt
